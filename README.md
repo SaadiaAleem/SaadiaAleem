@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Saadia Aleem 👋
 
-<!--
-**SaadiaAleem/SaadiaAleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer
 
-Here are some ideas to get you started:
+I build modern Android applications using **Kotlin**, focusing on clean architecture, scalable code, and intuitive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- Building and improving Android applications
+- Exploring modern Android development with Jetpack libraries and best practices
+
+## 🛠 Tech Stack
+**Languages:** Kotlin, Java  
+**Architecture:** MVVM, Clean Architecture  
+**Android:** Jetpack, Coroutines, Flow, Room, Navigation, ViewModel  
+**Tools:** Android Studio, Git, Firebase, Retrofit, Hilt, SQLite
+
+## 📫 Let's Connect
+- **LinkedIn:** https://linkedin.com/in/saadia-aleem
